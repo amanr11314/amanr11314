@@ -1,3 +1,4 @@
+<img align="right" alt="GIF"  width="370px" src="https://github.com/amanr11314/amanr11314/blob/main/coder_image.gif" />
 <h1 align="left">Hi 👋, I'm Aman</h1>
 <h3 align="left">A passionate Flutter developer from India</h3>
 
