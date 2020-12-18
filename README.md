@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **amanr11314@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/ddwfc4](https://rb.gy/ddwfc4)
+- 📄 Know about my experiences [bit.ly/3rcsZTg](bit.ly/3rcsZTg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
