@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **amanr11314@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/3rcsZTg](bit.ly/3rcsZTg)
+- 📄 Know about my experiences [bit.ly/34oCUeA](bit.ly/34oCUeA)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
