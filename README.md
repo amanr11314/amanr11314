@@ -1,8 +1,6 @@
 <img align="right" alt="GIF"  width="370px" src="https://github.com/amanr11314/amanr11314/blob/main/coder_image.gif" />
 <h1 align="left">Hi 👋, I'm Aman</h1>
-<h3 align="left">A passionate Flutter developer from India</h3>
-
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+<h3 align="left">An undergard student passionate towards Android App Development.</h3>
 
 - 📫 How to reach me **amanr11314@gmail.com**
 
