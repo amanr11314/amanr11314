@@ -14,8 +14,8 @@
 <a href="https://www.hackerrank.com/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amanr11314" height="30" width="40" /></a>
 </p>
 
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanr11314&theme=gotham&show_icons=true&locale=en&layout=compact" alt="amanr11314" /></p>
-
+<br>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanr11314&theme=midnight-purple&show_icons=true&locale=en" alt="amanr11314" /></p> -->
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr11314&" alt="amanr11314" /></p>
