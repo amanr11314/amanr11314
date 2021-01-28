@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Aman</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=amanr11314&label=Profile%20views&color=0e75b6&style=flat" alt="amanr11314" /> </p>
 
-<h3 align="left">An undergard student passionate towards Mobile App Development.</h3>
+<h3 align="left">A CSE undergraduate student passionate towards Mobile App Development.</h3>
 
 - 📫 How to reach me **amanr11314@gmail.com**
 
