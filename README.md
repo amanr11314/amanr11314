@@ -19,19 +19,24 @@
 <a href="https://github.com/amanr11314/FoodRunner">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=FoodRunner&theme=midnight-purple" />
 </a>
+
 <a href="https://github.com/amanr11314/Flash">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Flash&theme=midnight-purple" />
 </a>
+
 <a href="https://github.com/amanr11314/Xpers">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Xpers&theme=midnight-purple" />
 </a>
+
 <a href="https://github.com/amanr11314/Python-Automation-Projects">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Python-Automation-Projects&theme=midnight-purple" />
 </a>
 
 <br>
+<div align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amanr11314&theme=midnight-purple&show_icons=true&locale=en" alt="amanr11314" /></p>
 <br>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanr11314&theme=midnight-purple&show_icons=true&locale=en" alt="amanr11314" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr11314&theme=midnight-purple" alt="amanr11314" /></p>
 <br>
+</div>
