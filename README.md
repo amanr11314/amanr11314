@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amanr11314" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amanr11314" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="amanr11314" height="30" width="40" /></a>
 </p>
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-amanr11314.bitbucket.io-2648ff?style=flat-square&logo=google-chrome)](https://amanr11314.bitbucket.io/)
