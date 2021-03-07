@@ -15,7 +15,7 @@
 <a href="https://www.codechef.com/users/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="amanr11314" height="30" width="40" /></a>
 </p>
 
-[![website](https://img.shields.io/badge/PortfolioWebsite-aman-raj.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://aman-raj.netlify.app/#/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://aman-raj.netlify.app/)
 
 <a href="https://github.com/amanr11314/FoodRunner">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=FoodRunner&theme=midnight-purple" />
