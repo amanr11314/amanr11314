@@ -29,6 +29,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=flutter_web_portfolio&theme=midnight-purple" />
 </a>
 
+<a href="https://github.com/amanr11314/fastify-crash-course">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=fastify-crash-course&theme=midnight-purple" />
+</a>
+
 <a href="https://github.com/amanr11314/Xpers">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Xpers&theme=midnight-purple" />
 </a>
@@ -36,6 +40,16 @@
 <a href="https://github.com/amanr11314/Python-Automation-Projects">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Python-Automation-Projects&theme=midnight-purple" />
 </a>
+
+<a href="https://github.com/amanr11314/CalorieTracker">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=CalorieTracker&theme=midnight-purple" />
+</a>
+
+<a href="https://github.com/amanr11314/PLACEMENT-PREPARATION">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=PLACEMENT-PREPARATION&theme=midnight-purple" />
+</a>
+
+
 
 <br>
 <div align="center">
