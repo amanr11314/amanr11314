@@ -33,15 +33,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=fastify-crash-course&theme=midnight-purple" />
 </a>
 
-<a href="https://github.com/amanr11314/Articles-ReactTest-Hackerrank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Articles-ReactTest-Hackerrank&theme=midnight-purple" />
-</a>
-
-<a href="https://github.com/amanr11314/Slides-ReactTest-Hackerrank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Slides-ReactTest-Hackerrank&theme=midnight-purple" />
-</a>
-
-
 <a href="https://github.com/amanr11314/Xpers">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Xpers&theme=midnight-purple" />
 </a>
