@@ -17,8 +17,8 @@
 
 [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://aman-raj.netlify.app/)
 
-<a href="https://github.com/amanr11314/Music-Player">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=Music-Player&theme=midnight-purple" />
+<a href="https://github.com/Chandigarh-University-students/Music-Player">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Chandigarh-University-students&repo=Music-Player&theme=midnight-purple" />
 </a>
 
 <a href="https://github.com/amanr11314/FoodRunner">
