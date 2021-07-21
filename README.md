@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **amanr11314@gmail.com**
 
-- 📄 Know about my experiences [here.](https://resume.io/r/u5mxFQ7Pu)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1oEoWWyhnz2N4yK6sCMQdJchSFP1FGz7v/view?usp=sharing)
 
 <h3 align="left">⭐ Connect with me:</h3>
 <p align="left">
