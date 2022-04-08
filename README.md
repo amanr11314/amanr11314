@@ -62,6 +62,10 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amanr11314&theme=midnight-purple&show_icons=true&locale=en" alt="amanr11314" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amanr11314&theme=midnight-purple" alt="amanr11314" /></p>
 <br>
+<br>
+<br>
+<p> <a href="https://wakatime.com"><img src="https://wakatime.com/share/@amanr11314/b9409bbf-1f11-4704-8db4-74b819ddf85b.png" /></a> </p>
 </div>
+<br>
 <!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=amanr11314&theme=react-dark&hide_border=false" alt="contribution graph" /></p> -->
-<figure><embed src="https://wakatime.com/share/@amanr11314/fe00f9ab-6ab5-41cc-8563-c270476ed812.svg"></embed></figure>
+
