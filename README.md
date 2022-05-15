@@ -10,8 +10,9 @@
 
 <h3 align="left">⭐ Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amanr11314" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="amanr11314" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://leetcode.com/amanr11314/" target="blank"><img align="center" src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amanr11314" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
 </p>
 
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-2648ff?style=flat-square&logo=google-chrome)](https://aman-raj.netlify.app/) -->
