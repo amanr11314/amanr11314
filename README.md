@@ -86,8 +86,8 @@
  
 <tr>
  <td>
-  <a href="https://github.com/amanr11314/FoodRunner">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=FoodRunner&theme=midnight-purple" />
+  <a href="https://github.com/amanr11314/house_party">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanr11314&repo=house_party&theme=midnight-purple" />
   </a>
  </td>
 <td>
