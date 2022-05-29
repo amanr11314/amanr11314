@@ -6,7 +6,7 @@
 🎇 I'm a passionate <b>FullStack Web and Mobile App Developer</b>. <br/>
 🌱 Currently working on enhancing my <b>Problem Solving Skills</b>. <br/>
 👯 I’m looking forward for joining SDE Internship roles. <br/>
-📪 Reach Me : <a href="mailto:amanr11314@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/amanr11314/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white"> </a> <br/>
+📪 Reach Me : [![Gmail Badge](https://img.shields.io/badge/-amanr11314@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanr11314@gmail.com)](mailto:amanr11314@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AmanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanr11314)](https://www.linkedin.com/in/amanr11314/) <br/>
 📄 Know about my experiences [here.](https://bit.ly/3Mf1h1X)
 <br />
 
