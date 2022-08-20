@@ -3,9 +3,6 @@
 <h2><b>🌟 About me  </b></h2>
 
 ✨ I'm <b>Aman Raj</b> , a Computer Science Engineering Student.<br/>
-🎇 I'm a passionate <b>FullStack Web and Mobile App Developer</b>. <br/>
-🌱 Currently working on enhancing my <b>Problem Solving Skills</b>. <br/>
-👯 I’m looking forward for joining SDE Internship roles. <br/>
 📪 Reach Me : [![Gmail Badge](https://img.shields.io/badge/-amanr11314@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanr11314@gmail.com)](mailto:amanr11314@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AmanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanr11314)](https://www.linkedin.com/in/amanr11314/) <br/>
 📄 Know about my experiences [here.](https://bit.ly/3m39pqX)
 <br />
