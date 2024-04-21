@@ -2,9 +2,9 @@
 
 <h2><b>🌟 About me  </b></h2>
 
-✨ I'm <b>Aman Raj</b> , a Computer Science Engineering Student.<br/>
+✨ I'm <b>Aman Raj</b>, an Aspiring Software Engineer with over 1 years' of Software Development experience.<br/>
 📪 Reach Me : [![Gmail Badge](https://img.shields.io/badge/-amanr11314@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanr11314@gmail.com)](mailto:amanr11314@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-AmanRaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanr11314)](https://www.linkedin.com/in/amanr11314/) <br/>
-📄 Know about my experiences [here.](https://bit.ly/3m39pqX)
+📄 Know about my experiences [here.](https://drive.google.com/file/d/1BfEi5KLtilUaVle9oWFA6dxjMwRpeEK-/view?usp=drive_link)
 <br />
 
 <h2><b>🌟 My Coding Profiles  </b></h2>
